@@ -5,6 +5,7 @@ A quick script to find nearby businesses or places on Google Maps that do not ha
 Caution - this does use Google's Map API and can quickly incur some cost especially for generating lots of directions.
 
 Example Output:
+
 ![image](https://user-images.githubusercontent.com/1825214/170608728-f3dba54c-ed8c-4e11-a9b4-cf71b28e8f64.png)
 
 ![image](https://user-images.githubusercontent.com/1825214/170608813-525bbbb7-c806-44e1-93c8-e8b901f01037.png)
