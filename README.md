@@ -1,6 +1,6 @@
 # Local Guide's Guide
 
-A quick script to find nearby businesses or places on Google Maps that do not have any photos. Generates a list and can generate directions to each location and back to the starting location.
+A quick script to find nearby businesses or places on Google Maps that do not have any photos (It'll also list out if theres any hours listed, reviews, etc) . Generates a list and can generate directions to each location and back to the starting location. This has been a bit superseded by Google's "Contribute" button, but hey, might be useful for someone.
 
 Caution - this does use Google's Map API and can quickly incur some cost especially for generating lots of directions.
 
