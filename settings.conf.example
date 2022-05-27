@@ -1,0 +1,13 @@
+[Settings]
+google_api_key = PLACEHOLDER
+center_lat_lon = 41.77,-72.90
+radius = 1500
+
+# These are the location types I am interested in. Find more here: https://developers.google.com/maps/documentation/places/web-service/supported_types
+location_types = supermarket,store,restaurant,museum,laundry,jewelry_store,home_goods_store,hardware_store,furniture_store,funeral_home,cafe,bar
+
+[DirectionGeneration]
+# Careful this can be costly!! Directions API is expensive
+enabled = True
+transportation_mode = walking
+starting_location = "800 Make Believe Road, WhosVille, NY"
