@@ -134,7 +134,7 @@ def main():
     places = []
     print()
     print("Results:")
-    
+
     for place_dict in parsed_results:
         if place_dict['has_photo'] == 0:
             print("%s - %s" % (place_dict['name'], place_dict['address']))
